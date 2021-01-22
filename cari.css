@@ -1,0 +1,17 @@
+body {
+    background-color: lightsteelblue;
+}
+
+.toprow {
+    background-color: plum;
+}
+
+.fixed-row-bottom {
+    position: fixed;
+    bottom: 0;
+}
+
+.gispel {
+    border: 5px solid #FFFFFF;
+    box-shadow: 3px 3px 2px grey;
+}
